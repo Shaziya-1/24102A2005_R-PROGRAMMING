@@ -8,7 +8,6 @@
 This repository contains the complete collection of laboratory experiments and assignments for the **R Programming Laboratory Course** in Bachelor of Computer Engineering (BE CMPN - A).
 
 The curriculum spans from foundational vector and matrix computation, robust data preprocessing, and inferential statistical testing to high-performance big data analytics (`data.table`, multicore parallelization) and end-to-end machine learning pipelines (RFM customer segmentation, K-Means, Hierarchical Clustering, PCA, Random Forest, SVM).
-
 ---
 
 ## 👩‍💻 Student Profile
